@@ -1,4 +1,8 @@
 first time in github verson 2 chua chinh sua
 
 version thu n
+<<<<<<< HEAD
 update by quang thu hai
+=======
+update by quang thu nhat
+>>>>>>> 95ec230700f38458d1dec737fa3af9473fdb5d53
